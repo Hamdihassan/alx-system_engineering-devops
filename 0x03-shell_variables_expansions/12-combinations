@@ -1,2 +1,2 @@
-#!/bin/bash
-echo {{a..\o..z},{a..\o..z}}
+#!/bin/bash 
+echo {a..z},{a..z} | tra " " "\n" | grep -v "oo"
