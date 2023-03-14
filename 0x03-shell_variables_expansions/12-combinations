@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {{a..\o..z}{a..\o..z}}
+echo {{a..\o..z},{a..\o..z}}
